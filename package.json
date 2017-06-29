@@ -2,7 +2,11 @@
   "name": "node-hello",
   "version": "0.0.1",
   "description": "webserver demo from http://nodejs.org/",
-  "dependencies" : [ ],
+  "dependencies" : [     
+    "express": "3.4.8",
+    "consolidate": "0.10.0",
+    "express": "3.4.8",
+    "swig": "1.3.2"],
   "engines": {
     "node": "4.1.0"
   }
